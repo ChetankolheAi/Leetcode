@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0492-construct-the-rectangle](https://github.com/ChetankolheAi/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/ChetankolheAi/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Geometry
 |  |
