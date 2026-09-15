@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ChetankolheAi/Leetcode/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## String
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
