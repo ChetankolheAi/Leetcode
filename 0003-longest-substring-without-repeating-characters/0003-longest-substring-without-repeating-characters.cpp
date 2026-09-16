@@ -7,11 +7,10 @@ public:
         int i=0;
         for(i=0;i<s.size();i++){
             if(Freq[s[i]] > start && i>0){
-                cout<<start<<","<<s[i]<<","<<i<<endl;
+              
                 int winSize = i-start;
                 maxSize = max(winSize , maxSize);
-                int idx = Freq[s[i]];
-                start = idx;
+                start = Freq[s[i]];
 
             }
             
