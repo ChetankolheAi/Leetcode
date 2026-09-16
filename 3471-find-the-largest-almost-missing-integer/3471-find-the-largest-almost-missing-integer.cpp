@@ -44,9 +44,9 @@ public:
         else if(Freq[end]==1){
             return end;
         }
-        if(Freq[start]==nums.size() && nums.size()==k){
-            return start;
-        }
+        // if(Freq[start]==nums.size() && nums.size()==k){
+        //     return start;
+        // }
         return -1;
 
     }
