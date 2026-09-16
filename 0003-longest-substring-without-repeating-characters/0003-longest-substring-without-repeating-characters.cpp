@@ -3,22 +3,19 @@ public:
     int lengthOfLongestSubstring(string s) {
         int start = 0;
         int maxSize = 0;
-        unordered_map<char , int>Freq;
+        unordered_map<char , int>lastSeen;
         int i=0;
         for(i=0;i<s.size();i++){
-            if(Freq[s[i]] > start && i>0){
-              
-                int winSize = i-start;
-                maxSize = max(winSize , maxSize);
-                start = Freq[s[i]];
-
+            if(lastSeen[s[i]] > start && i>0){
+                int crrWinSize = i-start;
+                maxSize = max(crrWinSize , maxSize);
+                start = lastSeen[s[i]];
             }
-            
-            Freq[s[i]] = i+1;
-            
+            lastSeen[s[i]] = i+1;  
         }
-        int winSize = (i)-start;
-        maxSize = max(winSize , maxSize);
+        int crrWinSize = (i)-start;
+        maxSize = max(crrWinSize , maxSize);
+
         return maxSize;
     }
 };
