@@ -8,14 +8,16 @@ public:
         return maxi;
     }
     int largestInteger(vector<int>& nums, int k) {
+        unordered_map<int,int>Freq;
+        for(int i : nums){
+            Freq[i]++;
+        }
+
         if(k==nums.size()){
             return FindMax(nums,k);
         }
         else if(k==1){
-            unordered_map<int,int>Freq;
-            for(int i : nums){
-                Freq[i]++;
-            }
+           
             int maxi = INT_MIN;
             for(int i : nums){
                 if(Freq[i]==1){
@@ -23,19 +25,11 @@ public:
                     maxi = max(i , maxi);
                 }
             }
-            if(maxi ==INT_MIN){
-                return -1;
-            }
-        
-            return maxi;
-            
-           
+            return maxi==INT_MIN?-1:maxi;
+
         }
         
-        unordered_map<int,int>Freq;
-        for(int i : nums){
-            Freq[i]++;
-        }
+      
         int start = nums[0];
         int end = nums[nums.size()-1];
 
