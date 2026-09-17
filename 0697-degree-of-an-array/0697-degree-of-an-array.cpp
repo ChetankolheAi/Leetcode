@@ -2,49 +2,78 @@ class Solution {
 public:
     int findShortestSubArray(vector<int>& nums) {
         unordered_map<int,int>Freq;
-        for(int i : nums){
-            Freq[i]++;
+        unordered_map<int,int>LastIndex;
+        unordered_map<int,int>FirstIndex;
+        for(int i=0;i<nums.size();i++){
+            LastIndex[nums[i]] = i;
+            Freq[nums[i]]++;
+            if(FirstIndex[nums[i]]==0)
+                FirstIndex[nums[i]] = i+1;
+            
         }
+
         int maxFreq = 0;
-        int maxNum = 0;
         vector<int>Repeat;
         for(auto i  : Freq){
-            if(i.second > maxFreq){
+            if(i.second > maxFreq)
                 maxFreq = i.second;
-             
-            }
-           
-
         }
         for(auto i  : Freq){
-            if(i.second == maxFreq){
+            if(i.second == maxFreq)
                 Repeat.push_back(i.first);
-            }
+        }
+        int minSubArraySize = INT_MAX;
+        for(auto i  : Repeat){
+            minSubArraySize = min(minSubArraySize , (LastIndex[i]) - (FirstIndex[i]-1));
+        }
+
+        return minSubArraySize+1;
+
+
+        //------- BruthForce Solution O(n)2----------
+        //  unordered_map<int,int>Freq;
+        // for(int i : nums){
+        //     Freq[i]++;
+        // }
+        // int maxFreq = 0;
+        // int maxNum = 0;
+        // vector<int>Repeat;
+        // for(auto i  : Freq){
+        //     if(i.second > maxFreq){
+        //         maxFreq = i.second;
+             
+        //     }
            
 
-        }
-        for(int i=0;i<Repeat.size();i++){
-            cout<<Repeat[i]<<endl;
-        }
-        int minSize = INT_MAX;
-        for(int j=0;j<Repeat.size();j++){
-            
-            int numFirstOccurance = -1;
-            int numLastOccurance = -1;
-            for(int i=0;i<nums.size();i++){
+        // }
+        // for(auto i  : Freq){
+        //     if(i.second == maxFreq){
+        //         Repeat.push_back(i.first);
+        //     }
+           
 
-                if(numFirstOccurance == -1 && nums[i] == Repeat[j]){
-                    numFirstOccurance = i;
-                }
-                if(nums[i]==Repeat[j])
-                    numLastOccurance = i;
+        // }
+        // for(int i=0;i<Repeat.size();i++){
+        //     cout<<Repeat[i]<<endl;
+        // }
+        // int minSize = INT_MAX;
+        // for(int j=0;j<Repeat.size();j++){
+            
+        //     int numFirstOccurance = -1;
+        //     int numLastOccurance = -1;
+        //     for(int i=0;i<nums.size();i++){
+
+        //         if(numFirstOccurance == -1 && nums[i] == Repeat[j]){
+        //             numFirstOccurance = i;
+        //         }
+        //         if(nums[i]==Repeat[j])
+        //             numLastOccurance = i;
                 
-            } 
-            minSize = min(minSize , (numLastOccurance-numFirstOccurance)+1);
-        }
-         
-        // cout<<numLastOccurance<<endl; 
-        // cout<<numFirstOccurance<<endl; 
-        return minSize;
+        //     } 
+        //     minSize = min(minSize , (numLastOccurance-numFirstOccurance)+1);
+        // }
+        
+        // return minSize;
+
     }
 };
