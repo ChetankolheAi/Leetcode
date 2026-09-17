@@ -7,8 +7,9 @@ public:
         for(int i=0;i<nums.size();i++){
             LastIndex[nums[i]] = i;
             Freq[nums[i]]++;
-            if(FirstIndex[nums[i]]==0)
-                FirstIndex[nums[i]] = i+1;
+            if (FirstIndex.find(nums[i]) == FirstIndex.end()) 
+                FirstIndex[nums[i]] = i;
+            
             
         }
 
@@ -24,7 +25,7 @@ public:
         }
         int minSubArraySize = INT_MAX;
         for(auto i  : Repeat){
-            minSubArraySize = min(minSubArraySize , (LastIndex[i]) - (FirstIndex[i]-1));
+            minSubArraySize = min(minSubArraySize , (LastIndex[i]) - (FirstIndex[i]));
         }
 
         return minSubArraySize+1;
