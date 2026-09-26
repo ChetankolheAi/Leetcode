@@ -6,9 +6,7 @@ public:
             know[i[0]] = i[1];
         }
 
-        for(auto  i : know){
-            cout<<i.first<<","<<i.second<<endl;
-        }
+     
 
         int j = 0;
         bool flag = false;
@@ -24,23 +22,17 @@ public:
             
                 auto it = know.find(subString);
 
-                if (it != know.end()) {
-                    ans+=it->second;   
-                } else {
-                    ans+='?';
-                }
+                if (it != know.end()) ans+=it->second;   
+                else ans+='?';
+
                 flag = false;
                 subString = "";
                 continue;
             }
         
-            if(flag){
-                subString+=s[i];
-                continue;
-            }
-            else if(!flag){
-                ans+=s[i];
-            }
+            if(flag) subString+=s[i];
+            else if(!flag) ans+=s[i];
+            
         }
         return ans;
     }
