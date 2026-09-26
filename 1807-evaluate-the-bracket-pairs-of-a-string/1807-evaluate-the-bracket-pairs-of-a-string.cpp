@@ -1,18 +1,19 @@
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
+        
         unordered_map<string, string>know;
         for(auto i : knowledge){
             know[i[0]] = i[1];
         }
 
-     
-
-        int j = 0;
+ 
         bool flag = false;
         string subString = "";
         string ans ="";
+
         for(int i=0;i<s.size();i++){
+
             if(s[i]=='('){
                 flag = true;
                 continue;
