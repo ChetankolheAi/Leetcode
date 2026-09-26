@@ -1,10 +1,10 @@
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        
-        unordered_map<string, string>know;
-        for(auto i : knowledge){
-            know[i[0]] = i[1];
+
+        unordered_map<string, string>keyValue;
+        for(auto key : knowledge){
+            keyValue[key[0]] = key[1];
         }
 
  
@@ -21,9 +21,9 @@ public:
             
             else if(s[i]==')'){
             
-                auto it = know.find(subString);
+                auto it = keyValue.find(subString);
 
-                if (it != know.end()) ans+=it->second;   
+                if (it != keyValue.end()) ans+=it->second;   
                 else ans+='?';
 
                 flag = false;
