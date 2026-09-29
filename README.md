@@ -40,6 +40,7 @@
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/ChetankolheAi/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/ChetankolheAi/Leetcode/tree/master/0836-rectangle-overlap) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ChetankolheAi/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Geometry
 |  |
 | ------- |
