@@ -19,8 +19,7 @@ class Solution {
                 Secondrev = (Secondrev*10)+digit;
             }
         }
-        System.out.println(Secondrev);
-        System.out.println(sum);
+   
         return Secondrev*sum;
     }
 }
