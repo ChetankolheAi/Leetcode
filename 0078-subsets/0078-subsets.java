@@ -4,21 +4,15 @@ class Solution {
         if(i>=nums.length){
             return;
         }
-        System.out.println(temp);
-       
         temp.add(nums[i]);
         if(!mp.containsKey(temp)){
             ans.add(new ArrayList<>(temp));
             mp.put(temp,1);
         }
- 
-        if(i>=nums.length){
-            return;
-        }
         FindNext(nums,ans,temp,i+1,mp);
         temp.remove(temp.size()-1);
         FindNext(nums,ans,temp,i+1,mp);
-        return ;
+
 
     }
     public List<List<Integer>> subsets(int[] nums) {
