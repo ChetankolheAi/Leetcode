@@ -5,7 +5,7 @@ class RecentCounter {
     Queue<Integer>q = new LinkedList<>();
     int num = 0;
     public RecentCounter() {
-        q.clear();
+
     }
     
     public int ping(int t) {
