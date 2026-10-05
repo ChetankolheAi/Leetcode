@@ -141,4 +141,16 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ChetankolheAi/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ChetankolheAi/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ChetankolheAi/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
