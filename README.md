@@ -93,10 +93,12 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ChetankolheAi/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/ChetankolheAi/Leetcode/tree/master/0141-linked-list-cycle) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ChetankolheAi/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChetankolheAi/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -170,4 +173,5 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChetankolheAi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChetankolheAi/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
