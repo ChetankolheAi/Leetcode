@@ -5,7 +5,6 @@ class Solution {
         for(int i=0;i<s.length();i++){
             if(Character.isDigit(s.charAt(i))){
                 int digit = s.charAt(i)-'0';
-                System.out.println(digit);
                 if(digit>Maxi){
                     SecondMaxi = Maxi;
                     Maxi = digit;
