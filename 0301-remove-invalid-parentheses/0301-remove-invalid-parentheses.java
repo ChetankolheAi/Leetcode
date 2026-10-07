@@ -33,10 +33,8 @@ class Solution {
         if(isValid(str)){
             ans.add(str);
             maxStrLen[0] = Math.max(maxStrLen[0] , str.length());
-//            System.out.println(maxStrLen[0]);
         }
 
-        // System.out.println(str);
         Solve(s,i+1,str , ans ,maxStrLen ,visited);
 
         StringBuilder sb1 = new StringBuilder(str);
