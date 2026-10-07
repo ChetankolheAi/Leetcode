@@ -29,10 +29,8 @@ class Solution {
 
         String stateKey = i + "|" + str;
 
-        if (visited.contains(stateKey)) {
-            return;
-        }
-
+        if (visited.contains(stateKey)) return;
+        
         visited.add(stateKey);
 
 
