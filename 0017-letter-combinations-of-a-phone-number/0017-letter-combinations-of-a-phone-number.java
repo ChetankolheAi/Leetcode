@@ -3,22 +3,24 @@ class Solution {
 
     /// Solved this Problem Within 13 Min and without a single visit to CHATGPT or any Other AI .
     //
-    void Solve(String str ,int idx, String str1 ,Map<Integer,String> map ,String digits ,List<String> ans ){
+    void Solve( Map<Integer,String> map , List<String> ans, int idx, String str1 ,String digits ){
         
         if(str1.length()==digits.length()){
             ans.add(str1);
             return;
         }
-        if(idx == digits.length()) return ;
+        if(idx == digits.length()) return;
+        
+
         int ch = digits.charAt(idx)-'0';
         String strCh = map.get(ch);
-        System.out.println(strCh);
+
         
         for(int i=0;i<strCh.length();i++){
             
-            Solve(str,idx+1,str1+strCh.charAt(i) , map,digits,ans); 
+            Solve(map,ans,idx+1,str1+strCh.charAt(i),digits); 
 
-            Solve(str,idx+1,str1, map,digits,ans);    
+            Solve(map,ans,idx+1,str1,digits);    
         }
         
     }
@@ -36,7 +38,7 @@ class Solution {
 
         int ch = digits.charAt(0)-'0';
         String strCh = map.get(ch);
-        Solve("",0,"",map,digits,ans);
+        Solve(map,ans,0,"",digits);
 
         return ans;
     }
