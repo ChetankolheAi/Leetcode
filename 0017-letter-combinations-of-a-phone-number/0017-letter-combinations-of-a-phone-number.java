@@ -36,8 +36,6 @@ class Solution {
         map.put(9,"wxyz");
         List<String> ans = new ArrayList<>();
 
-        int ch = digits.charAt(0)-'0';
-        String strCh = map.get(ch);
         Solve(map,ans,0,"",digits);
 
         return ans;
