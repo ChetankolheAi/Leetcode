@@ -13,6 +13,7 @@
 | [0697-degree-of-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/ChetankolheAi/Leetcode/tree/master/0704-binary-search) |
 | [0748-shortest-completing-word](https://github.com/ChetankolheAi/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChetankolheAi/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ChetankolheAi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0018-4sum](https://github.com/ChetankolheAi/Leetcode/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/ChetankolheAi/Leetcode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChetankolheAi/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ChetankolheAi/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChetankolheAi/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -209,9 +211,30 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChetankolheAi/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChetankolheAi/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
