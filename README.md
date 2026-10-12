@@ -29,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChetankolheAi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/ChetankolheAi/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/ChetankolheAi/Leetcode/tree/master/0242-valid-anagram) |
 | [0697-degree-of-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/ChetankolheAi/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ChetankolheAi/Leetcode/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/ChetankolheAi/Leetcode/tree/master/0242-valid-anagram) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChetankolheAi/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ChetankolheAi/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChetankolheAi/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -84,6 +86,7 @@
 | [0020-valid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/ChetankolheAi/Leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0415-add-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0415-add-strings) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ChetankolheAi/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
