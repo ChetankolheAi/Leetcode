@@ -4,16 +4,15 @@ class Solution {
         int toAddLstDigit = sum%9;
 
         StringBuilder sb = new StringBuilder("");
+
         for(int i=0;i<nineCount;i++){
             sb.append('9');
         }
-        // if(nineCount > num) return "";
-        if(toAddLstDigit !=0 ){
-            if(nineCount+1 > num) return "";
-        }
-        if(toAddLstDigit!=0) sb.append((char)(toAddLstDigit+'0'));
+        if( toAddLstDigit != 0 && nineCount+1 > num) return "";
+        if( toAddLstDigit != 0 ) sb.append((char)(toAddLstDigit+'0'));
 
         int j = sb.length();
+        
         while(j < num){
             sb.append('0');
             j++;
