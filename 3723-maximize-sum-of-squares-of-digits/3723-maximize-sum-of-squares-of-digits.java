@@ -1,5 +1,8 @@
 class Solution {
     public String maxSumOfSquares(int num, int sum) {
+
+        //Solved this Within 10min without AI :) 
+        //Progressing.......
         int nineCount = sum/9;
         int toAddLstDigit = sum%9;
 
