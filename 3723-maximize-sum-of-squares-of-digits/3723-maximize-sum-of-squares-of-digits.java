@@ -7,7 +7,7 @@ class Solution {
         for(int i=0;i<nineCount;i++){
             sb.append('9');
         }
-        if(nineCount > num) return "";
+        // if(nineCount > num) return "";
         if(toAddLstDigit !=0 ){
             if(nineCount+1 > num) return "";
         }
