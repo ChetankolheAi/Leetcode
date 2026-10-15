@@ -7,11 +7,11 @@ class Solution {
             for(int j=i;j<nums.size();j++){
                     set.add(nums.get(j));
                    count+=set.size()*set.size();
-                   System.out.println(set.size());
+                   //System.out.println(set.size());
                 
             }
         }
-        System.out.println(count);
+        //System.out.println(count);
         return count;
     }
 }
