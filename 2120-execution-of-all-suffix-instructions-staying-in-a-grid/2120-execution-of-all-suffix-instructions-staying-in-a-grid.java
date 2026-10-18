@@ -5,31 +5,36 @@ class Solution {
         int ans[] = new int[s.length()];
 
         
-        for(int i=0;i<s.length();i++){
-            int starti = startPos[0];
-            int startj = startPos[1];
-            int dirIndex = i;
+        for(int k=0 ; k < s.length() ; k++){
+            
+            int i = startPos[0];
+            int j = startPos[1];
+
+            int dirIndex = k;
 
             // System.out.println(dirIndex);
             //System.out.println(starti+","+startj);
+
             int count = 0;
-            while(starti>=0 && startj>=0 && starti < n && startj < n && dirIndex < s.length()){
+
+            while(i>=0 && j>=0 && i < n && j < n && dirIndex < s.length()){
+                
                 char ch = s.charAt(dirIndex);
                 
-                if(ch=='R') startj++;
-                else if(ch=='U') starti--;
-                else if(ch=='D') starti++;
-                else if(ch=='L') startj--;
+                if(ch =='R') j++;
+                else if(ch =='U') i--;
+                else if(ch =='D') i++;
+                else if(ch =='L') j--;
                 //System.out.println(ch+","+starti+","+startj);
 
-                if(starti < 0 || starti >= n || startj < 0 || startj >= n){
-                    ans[i] = count;
+                if( i < 0 || i >= n || j < 0 || j >= n){
+                    ans[k] = count;
                     break;
                 }
                 count++;
                 dirIndex++;
             }
-            ans[i] = count;
+            ans[k] = count;
             //System.out.println("==========================");
         }
         return ans;
