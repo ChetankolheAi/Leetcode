@@ -9,11 +9,13 @@ class Solution {
             int starti = startPos[0];
             int startj = startPos[1];
             int dirIndex = i;
+
             // System.out.println(dirIndex);
             //System.out.println(starti+","+startj);
             int count = 0;
             while(starti>=0 && startj>=0 && starti < n && startj < n && dirIndex < s.length()){
                 char ch = s.charAt(dirIndex);
+                
                 if(ch=='R') startj++;
                 else if(ch=='U') starti--;
                 else if(ch=='D') starti++;
@@ -25,10 +27,10 @@ class Solution {
                     break;
                 }
                 count++;
-                ans[i] = count;
                 dirIndex++;
             }
-                //System.out.println("==========================");
+            ans[i] = count;
+            //System.out.println("==========================");
         }
         return ans;
 
