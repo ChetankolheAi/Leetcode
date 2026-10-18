@@ -266,6 +266,7 @@
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -274,9 +275,11 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
