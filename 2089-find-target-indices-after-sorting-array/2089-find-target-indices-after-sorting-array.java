@@ -10,15 +10,15 @@ class Solution {
         // return ans;
 
         int Count = 0;
-        int CountNumberLessthantarget = 0;
+        int CountLessTtarget = 0;
         for(int i=0;i<nums.length;i++){
             if(nums[i]==target)Count++;
             if(nums[i]<target){
-                CountNumberLessthantarget++;
+                CountLessTtarget++;
             }
         }
         List<Integer>ans = new ArrayList<>();
-        for(int i=CountNumberLessthantarget;i<(Count+CountNumberLessthantarget);i++){
+        for(int i=CountLessTtarget;i<(Count+CountLessTtarget);i++){
             ans.add(i);
         }
         return ans;
