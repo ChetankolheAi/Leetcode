@@ -110,3 +110,78 @@ class Solution {
         return ans;
     }
 }
+
+///----------------TLE--Solution-----------------------
+// class Solution {
+//      public boolean isSortable(List<Integer> l1, List<Integer> l2Sort) {
+//         if (l1.size() != l2Sort.size()) {
+//             return false;
+//         }
+
+//         // System.out.println(l1.size());
+//         // for(int i=0;i<l1.size();i++){
+//         //     System.out.print(l1.get(i)+",");
+//         // }
+//         // // System.out.println("=--------=");
+//         // for(int i=0;i<l2Sort.size();i++){
+//         //     System.out.print(l2Sort.get(i)+",");
+//         // }
+
+//         List<Integer> flatList = Stream.concat(l1.stream(), l1.stream()).collect(Collectors.toList());
+
+//         int index = Collections.indexOfSubList(flatList, l2Sort);
+
+//         return index != -1;
+//     }
+//     public int sortableIntegers(int[] nums) {
+
+//         List<Integer>subarraySize = new ArrayList<>();
+//         List<Integer>ansDivisor  = new ArrayList<>();
+//         int[] numsSorted = Arrays.copyOf(nums, nums.length);
+//         Arrays.sort(numsSorted);
+
+//         int n = nums.length;
+//         for(int i=2;i<=n;i++){
+//             if(n%i == 0){
+//                 subarraySize.add(i);
+//             }
+//         }
+        
+//         //Check for k=1 is array Sorted  already?
+//         boolean isArraySorted = true;
+//         for(int i=0;i<nums.length-1;i++){
+//             if(nums[i]>nums[i+1]){
+//                 isArraySorted = false;
+//                 break;
+//             }
+//         }
+//         int ans = 0;
+//         for(int i =0;i<subarraySize.size();i++){
+//             int k = subarraySize.get(i);
+//             boolean isKvalid = true;
+//             for(int j=0;j<n;j+=k){
+//                 List<Integer>l1 = new ArrayList<>(k);
+//                 List<Integer>l2 = new ArrayList<>(k);
+
+//                 for(int l = j ; l <= (j+(k-1)) ; l++){
+
+//                     l1.add(nums[l]);
+//                     l2.add(numsSorted[l]);
+//                     // System.out.println(l);
+//                 }
+//                    // System.out.println("----------------------");
+//                 if(!isSortable(l1 , l2)){
+//                     System.out.println(k);
+//                     isKvalid = false;
+//                     break;
+//                 }
+//             }
+//             if(isKvalid){
+//                 System.out.println(k);
+//                 ans+=k;
+//             }
+//         }
+//         if(isArraySorted)ans+=1;
+//         return ans;
+//     }
+// }
