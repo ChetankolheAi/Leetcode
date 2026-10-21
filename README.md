@@ -129,6 +129,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/ChetankolheAi/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
