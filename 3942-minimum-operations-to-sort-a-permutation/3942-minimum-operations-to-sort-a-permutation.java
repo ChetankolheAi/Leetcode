@@ -33,12 +33,19 @@ class Solution {
 
             return Math.min(leftCost , rightCost);
         }
+
+        //just keep the logic same for Decreasing Sorted rotated array 
+        //just add 1 to the ans for the rotating the array to make it increasing and then aaply same logic
         if(isDecreasing){
 
             int leftRotateCount = n-nums[n-1];
             int rightRotateCount = nums[n-1];
 
             int leftCost = leftRotateCount+1;
+            //here keep in mind
+            //for x right rotate the cost is  x+2 (i.e 2 reverse and x left rotate);
+            //for right roattion we already do the one reverse then we must cancle out the one reverse and 
+            //reverse which make the aaray increasing 
             int rightCost = rightRotateCount+1;
 
             return Math.min(leftCost , rightCost);
