@@ -15,6 +15,7 @@
 | [0704-binary-search](https://github.com/ChetankolheAi/Leetcode/tree/master/0704-binary-search) |
 | [0748-shortest-completing-word](https://github.com/ChetankolheAi/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChetankolheAi/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ChetankolheAi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ChetankolheAi/Leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChetankolheAi/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChetankolheAi/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChetankolheAi/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChetankolheAi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ChetankolheAi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Backtracking
 |  |
