@@ -248,6 +248,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1609-even-odd-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/1609-even-odd-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -296,6 +297,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1609-even-odd-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1609-even-odd-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/1609-even-odd-tree) |
 ## Union-Find
 |  |
 | ------- |
