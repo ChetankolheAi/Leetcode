@@ -92,6 +92,7 @@
 | [0492-construct-the-rectangle](https://github.com/ChetankolheAi/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/ChetankolheAi/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/ChetankolheAi/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ChetankolheAi/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ChetankolheAi/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3886-sum-of-sortable-integers](https://github.com/ChetankolheAi/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -132,6 +133,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/ChetankolheAi/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2409-count-days-spent-together](https://github.com/ChetankolheAi/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
