@@ -19,6 +19,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChetankolheAi/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ChetankolheAi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1572-matrix-diagonal-sum](https://github.com/ChetankolheAi/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChetankolheAi/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChetankolheAi/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -333,4 +334,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/ChetankolheAi/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
