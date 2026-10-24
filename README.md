@@ -43,6 +43,7 @@
 | [0141-linked-list-cycle](https://github.com/ChetankolheAi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/ChetankolheAi/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0697-degree-of-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/ChetankolheAi/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -119,6 +120,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ChetankolheAi/Leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0415-add-strings) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ChetankolheAi/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -189,6 +191,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChetankolheAi/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -228,6 +231,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/ChetankolheAi/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
