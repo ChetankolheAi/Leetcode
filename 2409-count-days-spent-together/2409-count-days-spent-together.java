@@ -1,12 +1,8 @@
 class Solution {
+    public int getDateNumber(int starIndex , int endIndex , String str){
+        return Integer.parseInt(str.substring(starIndex,endIndex));
+    }
     public int CountNumberOfDatesinRange(String Start , String End){
-
-        int NoOfDays = 0;
-        int StartMonth = Integer.parseInt(Start.substring(0,2));
-        int StartDate = Integer.parseInt(Start.substring(3,5));
-        
-        int EndMonth = Integer.parseInt(End.substring(0,2));
-        int EndDate = Integer.parseInt(End.substring(3,5));
 
         Map<Integer,Integer>Dates = new HashMap<>();
         Dates.put(1,31);
@@ -24,14 +20,19 @@ class Solution {
         System.out.println(Start);
         System.out.println(End);
 
+        int NoOfDays = 0;
+        int StartMonth = getDateNumber(0,2,Start);
+        int StartDate =  getDateNumber(3,5,Start);
+        
+        int EndMonth = getDateNumber(0,2,End);
+        int EndDate =  getDateNumber(3,5,End);
+
         if(StartMonth == EndMonth){
             NoOfDays = EndDate - StartDate + 1;
         }
         else{
             int StartMonthDays = Dates.get(StartMonth)-StartDate + 1;
             int EndMonthDays = EndDate;
-        System.out.println(StartMonthDays);
-        System.out.println(EndMonthDays);
             
             for(int i=StartMonth+1 ; i<EndMonth;i++){
                 NoOfDays += Dates.get(i);
@@ -45,11 +46,11 @@ class Solution {
     public int countDaysTogether(String arriveAlice, String leaveAlice, String arriveBob, String leaveBob) {
         
         // Max of Alice and Bob  // Enter Date
-        int AliceInMonth = Integer.parseInt(arriveAlice.substring(0,2));
-        int AliceInDate = Integer.parseInt(arriveAlice.substring(3,5));
+        int AliceInMonth = getDateNumber(0,2,arriveAlice);
+        int AliceInDate =  getDateNumber(3,5,arriveAlice);
         
-        int BobInMonth = Integer.parseInt(arriveBob.substring(0,2));
-        int BobInDate = Integer.parseInt(arriveBob.substring(3,5));
+        int BobInMonth = getDateNumber(0,2,arriveBob);
+        int BobInDate =  getDateNumber(3,5,arriveBob);
 
         String StartDate ;
 
@@ -67,11 +68,11 @@ class Solution {
         
 
         
-        int AliceOutMonth = Integer.parseInt(leaveAlice.substring(0,2));
-        int AliceOutDate = Integer.parseInt(leaveAlice.substring(3,5));
+        int AliceOutMonth = getDateNumber(0,2,leaveAlice);
+        int AliceOutDate = getDateNumber(3,5,leaveAlice);
         
-        int BobOutMonth = Integer.parseInt(leaveBob.substring(0,2));
-        int BobOutDate = Integer.parseInt(leaveBob.substring(3,5));
+        int BobOutMonth = getDateNumber(0,2,leaveBob);
+        int BobOutDate = getDateNumber(3,5,leaveBob);
 
         String EndDate ;
 
