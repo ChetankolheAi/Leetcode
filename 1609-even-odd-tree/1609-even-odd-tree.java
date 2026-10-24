@@ -26,16 +26,12 @@ class Solution {
 
             int size = q.size(); 
             for (int i = 0; i < size; i++) {
+                
                 TreeNode curr = q.poll();
 
-                if( isOdd && curr.val%2==0  || ( isOdd && prev!=-1 && prev >= curr.val  )) {
-                    System.out.println("Here in 1: "+curr.val +","+prev+","+isOdd);
-                    return false;
-                }
-                if( !isOdd && curr.val%2!=0 || ( !isOdd && prev!=-1 && prev <= curr.val )) {
-                    System.out.println("Here in 2 : "+curr.val +","+prev+","+isOdd);
-                    return false;
-                }
+                if( isOdd && curr.val%2==0  || ( isOdd && prev!=-1 && prev >= curr.val  ) ||
+                  ( !isOdd && curr.val%2!=0 || ( !isOdd && prev!=-1 && prev <= curr.val ))) return false;
+                   
                 if (curr.left != null)
                     q.add(curr.left);
 
