@@ -11,6 +11,7 @@
 | [0078-subsets](https://github.com/ChetankolheAi/Leetcode/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/ChetankolheAi/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0498-diagonal-traverse](https://github.com/ChetankolheAi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0697-degree-of-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/ChetankolheAi/Leetcode/tree/master/0704-binary-search) |
 | [0748-shortest-completing-word](https://github.com/ChetankolheAi/Leetcode/tree/master/0748-shortest-completing-word) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/ChetankolheAi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/ChetankolheAi/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
@@ -339,6 +341,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/ChetankolheAi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1572-matrix-diagonal-sum](https://github.com/ChetankolheAi/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2614-prime-in-diagonal](https://github.com/ChetankolheAi/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
