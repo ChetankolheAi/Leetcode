@@ -17,7 +17,7 @@ class Solution {
      int postIndex; 
     public TreeNode Solve( Map<Integer,Integer>map , int left , int right ,int[] inorder,int[] postorder){
         if(left>right) return null;
-        if(postIndex < 0) return null;
+       
         TreeNode Newroot = new TreeNode(postorder[postIndex--]);
         int Index = map.get(Newroot.val);
 
