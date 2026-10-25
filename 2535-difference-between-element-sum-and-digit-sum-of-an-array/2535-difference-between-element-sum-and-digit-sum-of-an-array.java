@@ -4,9 +4,10 @@ class Solution {
         int digitSum=0;
         for(int i =0;i<nums.length;i++){
             sum+=nums[i];
-            while(nums[i]>0){
-                int digit = nums[i]%10;
-                nums[i]/=10;
+            int temp = nums[i];
+            while(temp>0){
+                int digit = temp%10;
+                temp/=10;
                 digitSum +=digit;
             }
         }
