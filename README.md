@@ -104,6 +104,7 @@
 | [0836-rectangle-overlap](https://github.com/ChetankolheAi/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ChetankolheAi/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ChetankolheAi/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/ChetankolheAi/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ChetankolheAi/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
