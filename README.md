@@ -27,6 +27,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChetankolheAi/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChetankolheAi/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChetankolheAi/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/ChetankolheAi/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChetankolheAi/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ChetankolheAi/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -101,6 +102,7 @@
 | [0836-rectangle-overlap](https://github.com/ChetankolheAi/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ChetankolheAi/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/ChetankolheAi/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ChetankolheAi/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ChetankolheAi/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
