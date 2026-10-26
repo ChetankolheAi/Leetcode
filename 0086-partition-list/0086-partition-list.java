@@ -20,33 +20,31 @@ class Solution {
                 if(head1==null){
                     head1 = temp;
                     temp1 = head1;
-                    temp = temp1.next;
-                    temp1.next = null;
                 }
                 else{
                     temp1.next = temp;
                     temp1 = temp1.next;
-                    temp = temp1.next;
-                    temp1.next = null;
                 }
+                temp = temp1.next;
+                temp1.next = null;
             }
             else {
+
                 if(head2==null){
                     head2 = temp;
                     temp2 = head2;
-                    temp = temp2.next;
-                    temp2.next = null;
                 }
                 else{
                     temp2.next = temp;
                     temp2 = temp2.next;
-                    temp = temp2.next;
-                    temp2.next = null;
                 }
+                temp = temp2.next;
+                temp2.next = null;
             }
         }
         if(head1 == null) return head2;
         if(head2==null) return head1;
+        
         temp1.next = head2;
         
         return head1;
