@@ -128,6 +128,7 @@
 | [0018-4sum](https://github.com/ChetankolheAi/Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ChetankolheAi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ChetankolheAi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/ChetankolheAi/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -174,6 +175,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ChetankolheAi/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ChetankolheAi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
