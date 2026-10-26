@@ -388,4 +388,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ChetankolheAi/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/ChetankolheAi/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
