@@ -13,14 +13,10 @@ class Solution {
             }
 
         }
-        int positiveCount ;
-        if(start==nums.length){
-            positiveCount = 0;
-        }
-        else{
-            positiveCount = nums.length-end-1;
-        }
-        System.out.println(start+","+end+","+positiveCount);
+        
+        int positiveCount = (start==nums.length)?0:nums.length-end-1;
+
+        //System.out.println(start+","+end+","+positiveCount);
 
 
         start  = 0;
@@ -37,14 +33,8 @@ class Solution {
             }
 
         }
-        int negativeCount = end;
-        if(end==-1){
-            negativeCount = 0;
-        }
-        else{
-            negativeCount = end+1;
-        }
-        System.out.println(start+","+end+","+negativeCount);
+        int negativeCount = (end==-1)?0:end+1;
+        //System.out.println(start+","+end+","+negativeCount);
 
 
         return Math.max(negativeCount , positiveCount);
