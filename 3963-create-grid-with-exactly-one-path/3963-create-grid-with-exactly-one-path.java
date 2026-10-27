@@ -1,6 +1,7 @@
 class Solution {
     public String[] createGrid(int m, int n) {
         String[]  ans = new String[m];
+        
         // for(int i=0;i<m;i++){
         //     StringBuilder sb = new StringBuilder();
         //     for(int j=0;j<n;j++){
@@ -14,6 +15,7 @@ class Solution {
         //     ans[i] = sb.toString();
         // }
         // return ans;
+
         StringBuilder sb = new StringBuilder();
         for(int i=0;i<n;i++){
             sb.append('.');
