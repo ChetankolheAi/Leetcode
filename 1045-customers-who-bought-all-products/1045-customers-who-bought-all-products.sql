@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+WITH countUnique as (Select customer_id , COUNT(DISTINCT product_key) as cnt from customer group by customer_id)select customer_id from countUnique where cnt = (Select COUNT(product_key) from Product);
