@@ -425,6 +425,7 @@
 | [1683-invalid-tweets](https://github.com/ChetankolheAi/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ChetankolheAi/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/ChetankolheAi/Leetcode/tree/master/1907-count-salary-categories) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ChetankolheAi/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Function
 |  |
 | ------- |
