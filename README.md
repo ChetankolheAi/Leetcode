@@ -413,6 +413,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/ChetankolheAi/Leetcode/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/ChetankolheAi/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/ChetankolheAi/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ChetankolheAi/Leetcode/tree/master/0584-find-customer-referee) |
