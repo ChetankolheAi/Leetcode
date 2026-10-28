@@ -17,6 +17,7 @@
 | [0498-diagonal-traverse](https://github.com/ChetankolheAi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0697-degree-of-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/ChetankolheAi/Leetcode/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/ChetankolheAi/Leetcode/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/ChetankolheAi/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -59,6 +60,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0697-degree-of-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0706-design-hashmap](https://github.com/ChetankolheAi/Leetcode/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/ChetankolheAi/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1796-second-largest-digit-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -180,6 +182,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ChetankolheAi/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0706-design-hashmap](https://github.com/ChetankolheAi/Leetcode/tree/master/0706-design-hashmap) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -262,6 +265,7 @@
 ## Design
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/ChetankolheAi/Leetcode/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/ChetankolheAi/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -412,4 +416,8 @@
 | [1683-invalid-tweets](https://github.com/ChetankolheAi/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ChetankolheAi/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/ChetankolheAi/Leetcode/tree/master/1907-count-salary-categories) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/ChetankolheAi/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
