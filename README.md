@@ -92,6 +92,7 @@
 | [0022-generate-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ChetankolheAi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/ChetankolheAi/Leetcode/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChetankolheAi/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ChetankolheAi/Leetcode/tree/master/0078-subsets) |
+| [0338-counting-bits](https://github.com/ChetankolheAi/Leetcode/tree/master/0338-counting-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ChetankolheAi/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ChetankolheAi/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ChetankolheAi/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
