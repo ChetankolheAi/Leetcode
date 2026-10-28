@@ -424,6 +424,7 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ChetankolheAi/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/ChetankolheAi/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/ChetankolheAi/Leetcode/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/ChetankolheAi/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ChetankolheAi/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/ChetankolheAi/Leetcode/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ChetankolheAi/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
