@@ -422,6 +422,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/ChetankolheAi/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/ChetankolheAi/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/ChetankolheAi/Leetcode/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/ChetankolheAi/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ChetankolheAi/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/ChetankolheAi/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/ChetankolheAi/Leetcode/tree/master/1527-patients-with-a-condition) |
