@@ -11,6 +11,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ChetankolheAi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ChetankolheAi/Leetcode/tree/master/0078-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ChetankolheAi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ChetankolheAi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ChetankolheAi/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -119,6 +120,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ChetankolheAi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0415-add-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/ChetankolheAi/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/ChetankolheAi/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -206,6 +208,7 @@
 | [0020-valid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ChetankolheAi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ChetankolheAi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChetankolheAi/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
