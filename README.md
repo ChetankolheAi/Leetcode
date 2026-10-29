@@ -428,6 +428,7 @@
 | [1075-project-employees-i](https://github.com/ChetankolheAi/Leetcode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/ChetankolheAi/Leetcode/tree/master/1148-article-views-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/ChetankolheAi/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1251-average-selling-price](https://github.com/ChetankolheAi/Leetcode/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ChetankolheAi/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ChetankolheAi/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/ChetankolheAi/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
