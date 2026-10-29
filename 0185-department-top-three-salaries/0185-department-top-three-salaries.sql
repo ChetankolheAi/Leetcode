@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+WITH top3 AS(SELECT d.name as Department ,e.name as Employee , e.salary as Salary, e.departmentId ,DENSE_RANK() over(partition by e.departmentId order by salary DESC) as rnk from Department d JOIN Employee e ON e.departmentId = d.id order by e.salary DESC) SELECT Department , Employee , Salary FROM top3 where rnk <=3;  
