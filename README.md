@@ -25,6 +25,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/ChetankolheAi/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChetankolheAi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ChetankolheAi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChetankolheAi/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ChetankolheAi/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -210,6 +211,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChetankolheAi/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ChetankolheAi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChetankolheAi/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChetankolheAi/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -232,6 +234,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/ChetankolheAi/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ChetankolheAi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/ChetankolheAi/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
