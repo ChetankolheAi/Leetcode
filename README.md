@@ -14,6 +14,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ChetankolheAi/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/ChetankolheAi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0697-degree-of-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/ChetankolheAi/Leetcode/tree/master/0704-binary-search) |
@@ -61,6 +62,7 @@
 | [0242-valid-anagram](https://github.com/ChetankolheAi/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/ChetankolheAi/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ChetankolheAi/Leetcode/tree/master/0706-design-hashmap) |
