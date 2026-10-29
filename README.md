@@ -120,6 +120,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChetankolheAi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0415-add-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/ChetankolheAi/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -160,6 +161,7 @@
 | [0020-valid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/ChetankolheAi/Leetcode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -235,6 +237,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/ChetankolheAi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ChetankolheAi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
