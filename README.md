@@ -122,6 +122,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ChetankolheAi/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChetankolheAi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0415-add-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0415-add-strings) |
@@ -273,6 +274,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ChetankolheAi/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ChetankolheAi/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/ChetankolheAi/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/ChetankolheAi/Leetcode/tree/master/0338-counting-bits) |
