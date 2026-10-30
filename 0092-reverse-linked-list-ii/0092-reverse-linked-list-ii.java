@@ -10,14 +10,16 @@
  */
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
+
         ListNode temp = head;
         ListNode tempprev = null;
         int count = 1;
-        while(temp.next!=null && count<left){
+    
+        while(temp.next!=null && count<left)
+        {
             tempprev = temp;
             temp=temp.next;
             count++;
-
         }
         if(temp.next == null) return head;
 
@@ -29,7 +31,7 @@ class Solution {
         ListNode prev = null;
         ListNode crr = temp;
 
-        System.out.println(crr.val);
+        //System.out.println(crr.val);
     
         while(crr!=null && count<=right ){
          
@@ -43,12 +45,8 @@ class Solution {
             crr = next1;
             count++;
         }
-        if(FirstConnect!=null){
-            FirstConnect.next = crr;
-        }
-        if(FirstConnect==null){
-            return crr;
-        }
+        if(FirstConnect!=null) FirstConnect.next = crr;
+        else if(FirstConnect==null) return crr;
         return head;
     }
 }
