@@ -12,15 +12,17 @@ class Solution {
 
         int i = 0;
         StringBuilder sb = new StringBuilder();
-        while(num>0 && i<values.length){
-            if(values[i]<=num){
-                int toAdd = num / values[i];
-                for(int k = 0;k<toAdd;k++){
-                    sb.append(symbols[i]);
-                }
+        
+        while(num>0 && i<values.length)
+        {    
+            if(values[i]<=num)
+            {
+                int symbolCount = num / values[i];
+                for(int k = 0 ; k < symbolCount ; k++)  sb.append(symbols[i]);
                 num %= values[i];
             }
-            else{
+            else
+            {
                 i++;
             }
         }
