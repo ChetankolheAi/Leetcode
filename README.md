@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ChetankolheAi/Leetcode/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/ChetankolheAi/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
@@ -149,6 +150,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ChetankolheAi/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/ChetankolheAi/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -198,6 +200,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ChetankolheAi/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0148-sort-list) |
 | [0705-design-hashset](https://github.com/ChetankolheAi/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ChetankolheAi/Leetcode/tree/master/0706-design-hashmap) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -329,6 +332,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ChetankolheAi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/ChetankolheAi/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
@@ -337,6 +341,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
