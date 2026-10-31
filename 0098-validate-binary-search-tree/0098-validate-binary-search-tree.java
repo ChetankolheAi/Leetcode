@@ -14,17 +14,19 @@
  * }
  */
 class Solution {
-    public void Solve(TreeNode root , List<Integer> li){
+    public void inOrderTraversal(TreeNode root , List<Integer> li){
         if(root==null)return;
-        Solve(root.left,li);
+
+        inOrderTraversal(root.left,li);
         li.add(root.val);
-        Solve(root.right,li);
+        inOrderTraversal(root.right,li);
+        
         return;
 
     }
     public boolean isValidBST(TreeNode root) {
         List<Integer>li = new ArrayList<>();
-        Solve(root,li);
+        inOrderTraversal(root,li);
         for(int i=0;i<li.size()-1;i++){
             if(li.get(i)>=li.get(i+1)){
                 return false;
