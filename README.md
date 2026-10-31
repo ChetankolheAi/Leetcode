@@ -108,6 +108,7 @@
 | [0062-unique-paths](https://github.com/ChetankolheAi/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0338-counting-bits](https://github.com/ChetankolheAi/Leetcode/tree/master/0338-counting-bits) |
+| [0576-out-of-boundary-paths](https://github.com/ChetankolheAi/Leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0678-valid-parenthesis-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/ChetankolheAi/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
