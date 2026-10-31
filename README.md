@@ -395,6 +395,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ChetankolheAi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -406,6 +407,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0938-range-sum-of-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0938-range-sum-of-bst) |
@@ -415,12 +417,14 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0101-symmetric-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ChetankolheAi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
