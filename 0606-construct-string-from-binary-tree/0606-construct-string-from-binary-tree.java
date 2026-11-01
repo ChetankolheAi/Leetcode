@@ -19,10 +19,14 @@ class Solution {
         if(root==null)return;
         
         sb.append(String.valueOf(root.val));
+
+        //if both child are null just return dont need to add empty Parentheses:
         if(root.left==null && root.right==null) return;
         sb.append('(');
         Solve(root.left);
         sb.append(')');
+
+        //if Left child present and right child dont then just dont need to add empty Parentheses:
         if(root.right==null) return;
         sb.append('(');
         Solve(root.right);
