@@ -15,29 +15,20 @@
  */
 class Solution {
     public TreeNode Solve(TreeNode root , int val){
-        if(root==null){
-             TreeNode newNode = new TreeNode(val);
-             return newNode;
+        
+        TreeNode newNode = new TreeNode(val);
+       
+        if(root==null) return newNode;
+        
+        if(val>root.val)
+        {
+            if(root.right==null) root.right = newNode;
+            else Solve(root.right,val); 
         }
-        if(val>root.val){
-            if(root.right==null){
-                TreeNode newNode = new TreeNode(val);
-                root.right = newNode;
-                return root;
-            }
-            else{
-                Solve(root.right,val);
-            }
-        }
-        if(val<root.val){
-            if(root.left==null){
-                TreeNode newNode = new TreeNode(val);
-                root.left = newNode;
-                return root;
-            }
-            else{
-                Solve(root.left,val);
-            }
+        if(val<root.val)
+        {
+            if(root.left==null) root.left = newNode;
+            else Solve(root.left,val);
         }
         return root;
     }
