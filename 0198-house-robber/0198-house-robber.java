@@ -1,3 +1,20 @@
+// class Solution {
+//     public int Solve(int[] nums , int i , int currSum){
+//         if(i>=nums.length){
+//             return currSum;
+//         }
+//         int sum = currSum+nums[i];
+//         return Math.max(
+//         Solve(nums , i+2,sum),
+//         Solve(nums , i+1,currSum));
+//     }
+//     public int rob(int[] nums) {
+//        return Solve(nums,0,0);
+//     }
+// }
+//--------------------TLE-------------------
+//---------------Now--Apply--DP---------------
+
 class Solution {
         public int Solve(int[] dp,int[] nums , int i )
         {
