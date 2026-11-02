@@ -149,6 +149,7 @@
 | [0012-integer-to-roman](https://github.com/ChetankolheAi/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ChetankolheAi/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/ChetankolheAi/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ChetankolheAi/Leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChetankolheAi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0415-add-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0415-add-strings) |
@@ -248,6 +249,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ChetankolheAi/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/ChetankolheAi/Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
