@@ -16,6 +16,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ChetankolheAi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ChetankolheAi/Leetcode/tree/master/0078-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ChetankolheAi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0136-single-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChetankolheAi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/ChetankolheAi/Leetcode/tree/master/0198-house-robber) |
@@ -327,6 +328,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/ChetankolheAi/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ChetankolheAi/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ChetankolheAi/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ChetankolheAi/Leetcode/tree/master/0338-counting-bits) |
