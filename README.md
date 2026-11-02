@@ -21,6 +21,7 @@
 | [0198-house-robber](https://github.com/ChetankolheAi/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ChetankolheAi/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -77,6 +78,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ChetankolheAi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ChetankolheAi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/ChetankolheAi/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -99,6 +101,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ChetankolheAi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ChetankolheAi/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -135,6 +138,7 @@
 | [0148-sort-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ChetankolheAi/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ChetankolheAi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
@@ -154,6 +158,7 @@
 | [0050-powx-n](https://github.com/ChetankolheAi/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ChetankolheAi/Leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChetankolheAi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ChetankolheAi/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -323,6 +328,7 @@
 | [0029-divide-two-integers](https://github.com/ChetankolheAi/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ChetankolheAi/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/ChetankolheAi/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ChetankolheAi/Leetcode/tree/master/0338-counting-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ChetankolheAi/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/ChetankolheAi/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
