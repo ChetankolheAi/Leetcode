@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChetankolheAi/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ChetankolheAi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/ChetankolheAi/Leetcode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/ChetankolheAi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ChetankolheAi/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -188,6 +189,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChetankolheAi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ChetankolheAi/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/ChetankolheAi/Leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/ChetankolheAi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0022-generate-parentheses) |
@@ -562,4 +564,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ChetankolheAi/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ChetankolheAi/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
