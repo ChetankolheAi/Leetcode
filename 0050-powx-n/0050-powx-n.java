@@ -1,17 +1,23 @@
 class Solution {
     public double myPow(double x, int n) {
-        // if(n==0) return 1;
-        // boolean isNegative = false;
-        // if(n<0){
-        //     isNegative = true;
-        //     n = n*-1;
-        // }
-        // double ans = x;
-        // for(int i=1;i<n;i++){
-        //     ans*=x;
-        // }
-        // if(isNegative) return 1/ans;
-        // return ans;
-        return Math.pow(x,n);
+        if (n == 0 || x == 1) return 1;
+
+        long N = n;
+        boolean isNegative = N < 0;
+
+        if (isNegative) N = -N;
+
+        double ans = 1;
+
+        while (N > 0) {
+            if (N % 2 == 1) {
+                ans *= x;
+            }
+
+            x *= x;
+            N /= 2;
+        }
+
+        return isNegative ? 1 / ans : ans;
     }
 }
