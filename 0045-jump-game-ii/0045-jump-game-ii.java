@@ -1,5 +1,6 @@
 class Solution {
     public int Solve(int[] dp ,int[] nums , int i){
+        //Integer.MAX_VALUE means we can't reach the last position from that index
         if (i >= nums.length) return Integer.MAX_VALUE;
         if (i == nums.length - 1) return 0;
         if (dp[i] != -1) return dp[i];
