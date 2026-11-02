@@ -418,6 +418,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ChetankolheAi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -432,6 +433,7 @@
 | [0101-symmetric-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/ChetankolheAi/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -441,6 +443,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0938-range-sum-of-bst) |
@@ -454,6 +457,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ChetankolheAi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ChetankolheAi/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
