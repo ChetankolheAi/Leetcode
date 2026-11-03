@@ -1,8 +1,7 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n = nums.length;
-        int sum  = (n*(n+1))/2;
-        int arrSum = IntStream.of(nums).sum();
-        return sum-arrSum;
+        int xor1 = IntStream.rangeClosed(1, nums.length).reduce(0, (a, b) -> a ^ b);
+        int xor2 = Arrays.stream(nums).reduce(0, (a, b) -> a ^ b);
+        return xor1 ^ xor2;
     }
 }
