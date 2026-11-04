@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/ChetankolheAi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ChetankolheAi/Leetcode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ChetankolheAi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ChetankolheAi/Leetcode/tree/master/0078-subsets) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/ChetankolheAi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ChetankolheAi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -517,6 +519,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/ChetankolheAi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ChetankolheAi/Leetcode/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ChetankolheAi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
