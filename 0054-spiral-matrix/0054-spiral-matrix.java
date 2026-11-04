@@ -27,7 +27,7 @@ class Solution {
                 num++;
             }
             rightCol--;
-            if(topRow <= bottomRow)
+            if(topRow <= bottomRow && leftCol <= rightCol)
             {
                 for(int k = rightCol ; k >= leftCol ; k-- )
                 {
@@ -35,9 +35,7 @@ class Solution {
                     num++;
                 }
                 bottomRow--;
-            }
-            if(leftCol <= rightCol)
-            {
+    
                 for(int k = bottomRow ; k >= topRow ; k-- )
                 {
                     ans.add(arr[k][leftCol]);
