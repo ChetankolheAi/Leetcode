@@ -11,15 +11,13 @@ class Solution {
                 if(sb.charAt(i)==prev){
                     cnt++;
                 }
-                else{
-                    sb1.append((char)(cnt+'0'));
-                    sb1.append((char)(prev));
-                    cnt = 1;
+                else{ 
+                    sb1.append((char)(cnt + '0')).append(prev);
                     prev = sb.charAt(i);
+                    cnt = 1;
                 }
             }
-             sb1.append((char)(cnt+'0'));
-                    sb1.append((char)(prev));
+            sb1.append((char)(cnt + '0')).append(prev);
             count++;
             sb=sb1;
         }
