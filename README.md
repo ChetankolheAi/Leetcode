@@ -211,6 +211,7 @@
 | [0020-valid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/ChetankolheAi/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ChetankolheAi/Leetcode/tree/master/0242-valid-anagram) |
