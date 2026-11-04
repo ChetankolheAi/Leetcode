@@ -40,13 +40,15 @@ class Solution {
         }
 
         for(int k=1;k<=9;k++)
-        {
+        {   
+            //check is current insertion is valid or not
             if(isValid(i,j,(char)(k+'0')))
             {
                 board[i][j] = (char)(k+'0');
                 if (Solve(nextRow, nextCol))
                     return true;
-
+                
+                //Backtrack
                 board[i][j] = '.';
             }
         }
