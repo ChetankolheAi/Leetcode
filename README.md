@@ -165,6 +165,7 @@
 | [0050-powx-n](https://github.com/ChetankolheAi/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ChetankolheAi/Leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChetankolheAi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/ChetankolheAi/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ChetankolheAi/Leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ChetankolheAi/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
