@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/ChetankolheAi/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ChetankolheAi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/ChetankolheAi/Leetcode/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/ChetankolheAi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ChetankolheAi/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ChetankolheAi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ChetankolheAi/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -76,6 +77,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChetankolheAi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ChetankolheAi/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ChetankolheAi/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/ChetankolheAi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ChetankolheAi/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ChetankolheAi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ChetankolheAi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -512,6 +514,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ChetankolheAi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ChetankolheAi/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ChetankolheAi/Leetcode/tree/master/0074-search-a-2d-matrix) |
