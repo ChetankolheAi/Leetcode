@@ -55,6 +55,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChetankolheAi/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/ChetankolheAi/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2747-count-zero-request-servers](https://github.com/ChetankolheAi/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChetankolheAi/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ChetankolheAi/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ChetankolheAi/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -97,6 +98,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChetankolheAi/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2747-count-zero-request-servers](https://github.com/ChetankolheAi/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ChetankolheAi/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ChetankolheAi/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -152,6 +154,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChetankolheAi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChetankolheAi/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ChetankolheAi/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/ChetankolheAi/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ChetankolheAi/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChetankolheAi/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ChetankolheAi/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -248,6 +251,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChetankolheAi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2747-count-zero-request-servers](https://github.com/ChetankolheAi/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Linked List
 |  |
 | ------- |
