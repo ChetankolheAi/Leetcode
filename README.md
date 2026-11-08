@@ -41,6 +41,7 @@
 | [0912-sort-an-array](https://github.com/ChetankolheAi/Leetcode/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ChetankolheAi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/ChetankolheAi/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ChetankolheAi/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChetankolheAi/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ChetankolheAi/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChetankolheAi/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/ChetankolheAi/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ChetankolheAi/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ChetankolheAi/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Floyd's Cycle Finding Algorithm
@@ -394,6 +396,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ChetankolheAi/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/ChetankolheAi/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ChetankolheAi/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1609-even-odd-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/1609-even-odd-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ChetankolheAi/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
@@ -476,6 +479,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/ChetankolheAi/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ChetankolheAi/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ChetankolheAi/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -507,6 +511,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ChetankolheAi/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ChetankolheAi/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChetankolheAi/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ChetankolheAi/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
@@ -535,6 +540,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/ChetankolheAi/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1254-number-of-closed-islands](https://github.com/ChetankolheAi/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ChetankolheAi/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/ChetankolheAi/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2614-prime-in-diagonal](https://github.com/ChetankolheAi/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/ChetankolheAi/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
