@@ -64,6 +64,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ChetankolheAi/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ChetankolheAi/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ChetankolheAi/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ChetankolheAi/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/ChetankolheAi/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChetankolheAi/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ChetankolheAi/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
