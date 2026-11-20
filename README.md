@@ -249,6 +249,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ChetankolheAi/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/ChetankolheAi/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2409-count-days-spent-together](https://github.com/ChetankolheAi/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ChetankolheAi/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ChetankolheAi/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ChetankolheAi/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
