@@ -7,11 +7,10 @@ class Solution {
             x += --j;
             len++;
         }
-        System.out.println(x+","+len);
-        if(len%2==0 && x==n )return false;
-        else if(len%2==0 && x!=n )return true;
-        else if(len%2==1 && x==n )return true;
-        else if(len%2==1 && x!=n )return false;
-        else return false;
+
+        if(len%2==0 && x==n || len%2==1 && x!=n )return false;
+        else if(len%2==0 && x!=n || len%2==1 && x==n )return true;
+        
+        return false;
     }
 }
